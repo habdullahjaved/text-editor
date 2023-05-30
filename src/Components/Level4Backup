@@ -1,0 +1,21 @@
+setIsEditableSubContentsL4((prevState) => {
+  const newState = [...prevState];
+  newState?.forEach((parent) => {
+    parent.subcontents?.forEach((subcontentL3) => {
+      subcontentL3.subcontents?.forEach((subcontentL4) => {
+        subcontentL4.isEditable = false;
+      });
+    });
+  });
+  const parentIndex = newState.findIndex((s) => s.id === parentId);
+  const childIndex = newState[parentIndex].subcontents.findIndex(
+    (s) => s.id === childId
+  );
+  const subcontentIndex = newState[parentIndex].subcontents[
+    childIndex
+  ].subcontents.findIndex((s) => s.id === id);
+  newState[parentIndex].subcontents[childIndex].subcontents[
+    subcontentIndex
+  ].isEditable = false;
+  return newState;
+});

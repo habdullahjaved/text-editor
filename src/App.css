@@ -1,0 +1,68 @@
+.textedit {
+  border: 0px;
+  box-shadow: none;
+}
+.textedit:focus {
+  border: 0px !important;
+}
+.editarea {
+  border: none;
+}
+.editclass {
+  border: 1px solid red;
+}
+.saveAllbtn {
+  background-color: azure;
+  color: black;
+  padding: 10px 12px;
+}
+.savebtn {
+  background-color: rgb(197, 208, 208);
+  color: black;
+  padding: 10px 12px;
+}
+/* bs */
+.container,
+.container-fluid,
+.container-lg,
+.container-md,
+.container-sm,
+.container-xl,
+.container-xxl {
+  --bs-gutter-x: 0 !important;
+}
+.nav-link {
+  color: #fff !important;
+  font-size: 18px !important;
+}
+.navbar-brand {
+  font-size: 28px !important;
+}
+
+.form-wrapper {
+  border: 1px solid gray;
+  background-color: aliceblue;
+  padding: 12px 8px;
+  border-radius: 8px;
+}
+
+/* if needed */
+.excutive-summary-heading {
+  padding: 10px;
+  height: auto;
+  background-color: #00b0f0;
+  color: white;
+  font-weight: bold;
+}
+.executive-sumary-subcontent {
+  padding: 10px;
+  height: auto;
+}
+.subcontent-heading-level-1 {
+  font-weight: bold;
+}
+.subcontent-heading-level-2 {
+  font-weight: bold;
+  font-size: 20px;
+  /* color: rgb(51, 92, 10); */
+}

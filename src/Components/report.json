@@ -1,0 +1,250 @@
+[
+  {
+    "executive_summary": [
+      {
+        "id": 1,
+        "summary": "Executive Summary",
+        "content": [
+          {
+            "id": 1,
+            "heading": "Background",
+            "content": "Healthcare workers (HCW) are exposed to occupational hazard of sharp injuries, commonly referred to as needle stick injuries. World Health Organization (WHO) reported that of the 35 million health-care workers, two million experience percutaneous exposure to infectious diseases each year. According to Ministry of Health (MOH) Malaysia, needle stick injury was the major cause of injuries among the MOH personnel which contributes to a total of 74.9% of all injuries in 2005. Vacuum extraction tube system was reported to be a safer option than using hypordermic needle and syringe. The system eliminates blood transfer and allows numerous blood samples to be collected through single venepuncture. Vacutainer system is a type of vacuum extraction tube system specifically designed for the collection of single or multiple blood samples under closed conditions. Vacuum extraction tube systems are widely available in most well-resourced countries. The system has been reported to reduce needle stick injuries in HCW. However, if the system is not correctly used, it may create risk for needle stick injuries to the HCW. Therefore, this systematic review was requested by the Medical and Endocrinology Consultant, Hospital Ipoh to evaluate safety, efficacy and cost-effectiveness of needleless Vacutainer system for blood collection."
+          },
+          {
+            "id": 2,
+            "heading": "Objective/Aim",
+            "content": "To evaluate the safety, efficacy, cost-effectiveness, organizational and psychological/social/ethical issues of needleless Vacutainer system for blood collection."
+          },
+          {
+            "id": 3,
+            "heading": "Results and Conclusions",
+            "content": "A total of 383 titles were identified through the Ovid interface and PubMed. There were six articles included in this review; one RCT, two pre and post intervention studies, and three cross sectional studies."
+          },
+          {
+            "id": 4,
+            "heading": "Effectiveness",
+            "content": [
+              {
+                "id": 1,
+                "subheading": "Needle sticks injuries",
+                "content": "Multicentre, analyst-blinded, randomised controlled superiority trial in 22 clinics"
+              },
+              {
+                "id": 2,
+                "subheading": "Sample Hemolysis",
+                "content": "The evidence on sample hemolysis is inconclusive whereby one RCT reported a lower hemolysis rate of blood samples drawn from Vacutainer venepuncture compared to IV catheter (via syringe). On the other hand, two cross sectional studies reported that blood hemolysis was found to be higher in samples drawn with a Vacutainer system compared to a syringe-needle transfer system (hemolysis rate with Vacutainer: 35.8% to 77.0%)."
+              },
+              {
+                "id": 3,
+                "subheading": "Safety",
+                "content": "Multicentre, analyst-blinded, randomised controlled superiority trial in 22 clinics"
+              },
+              {
+                "id": 4,
+                "subheading": "Psychological / Social / Ethical",
+                "content": "Multicentre, analyst-blinded, randomised controlled superiority trial in 22 clinics"
+              },
+              {
+                "id": 5,
+                "subheading": "Organizational",
+                "content": "Multicentre, analyst-blinded, randomised controlled superiority trial in 22 clinics"
+              },
+              {
+                "id": 6,
+                "subheading": "Cost / Cost-Effectiveness",
+                "content": "Multicentre, analyst-blinded, randomised controlled superiority trial in 22 clinics"
+              }
+            ]
+          },
+          {
+            "id": 5,
+            "heading": "Methods",
+            "content": "Electronic databases were searched through the Ovid interface: Ovid MEDLINE® In-process and other Non-indexed citations and Ovid MEDLINE® 1946 to present, EMBASE – 1996 to March 2018, EBM Reviews - Cochrane Central Register of Controlled Trials – August 2017, EBM Reviews - Cochrane Database of Systematic Reviews - 2005 to August 2017, EBM Reviews - Health Technology Assessment – 4th Quarter 2016, EBM Reviews – NHS Economic Evaluation Database 1st Quarter 2016. Searches were also run in PubMed. Google was used to search for additional web-based materials and information. Additional articles were identified from reviewing the references of retrieved articles. Last search was conducted on 20 January 2019."
+          },
+          { "id": 6, "heading": "Recomendations", "content": "To be included" }
+        ]
+      }
+    ],
+    "backgrounds": [
+      {
+        "id": 1,
+        "background": "Introduction",
+        "content": "To evaluate whether levels of treatment observation were improved with Video-observed therapy (VOT)"
+      }
+    ],
+    "objectives": [
+      {
+        "id": 1,
+        "objective": "Objective/Aim",
+        "content": "Eligible patients were identified by case managers at each participating clinic and referred to the study team."
+      }
+    ],
+    "features": [
+      {
+        "id": 1,
+        "feature": "Technical Feature",
+        "content": [
+          {
+            "id": 1,
+            "heading": "LEPROSY",
+            "content": "Leprosy is an infectious disease caused by M. leprae, which multiplies slowly. On average, the disease incubation period is five years but symptoms may occur within one year. It can also take as long as 20 years or even more to occur. The signs and symptoms of leprosy are: •\tSkin lesions •\tDecreased or loss of sensation on skin lesions •\tMuscle weakness •\tNumbness in the hands, arms, feet and legs."
+          },
+          {
+            "id": 2,
+            "heading": "LEPROSY CONTACTS",
+            "content": "A leprosy contact is defined as a person having close proximity to a leprosy patient for a prolonged duration. Such persons are considered “exposed” to leprosy and may or may not have been infected. “Prolonged duration” is typically defined as having been in contact with an untreated patient for 20 hours per week for at least three month, e.g. family members, neighbours, friends, school children in same class, and co-workers in same office. A person whose exposure with a leprosy patient only starts after the patient has been treated for four weeks is not considered a contact. Different types of leprosy contact can be distinguished as shown in Table 2.11"
+          },
+          {
+            "id": 3,
+            "heading": "CONTACT TRACING AND SCREENING",
+            "content": "A leprosy contact is defined as a person having close proximity to a leprosy patient for a prolonged duration. Such persons are considered “exposed” to leprosy and may or may not have been infected. “Prolonged duration” is typically defined as having been in contact with an untreated patient for 20 hours per week for at least three month, e.g. family members, neighbours, friends, school children in same class, and co-workers in same office. A person whose exposure with a leprosy patient only starts after the patient has been treated for four weeks is not considered a contact. Different types of leprosy contact can be distinguished as shown in Table 2.11"
+          },
+          {
+            "id": 4,
+            "heading": "SINGLE DOSE RIFAMPICIN (SDR)",
+            "content": "Rifampicin, also known as rifampin is an antibiotic used to treat several types of mycobacterial infections including Mycobacterium avium complex, leprosy, and in combination with other antibacterials to treat latent or active TB. In susceptible organisms, rifampicin inhibits DNA-dependent RNA polymerase activity by forming a stable complex with the enzyme, leading to suppresses of RNA synthesis and cell death.14."
+          }
+        ]
+      }
+    ],
+    "methods": [
+      {
+        "id": 1,
+        "methods": "METHODS",
+        "content": [
+          {
+            "id": 1,
+            "heading": "SEARCHING",
+            "content": "Leprosy is an infectious disease caused by M. leprae, which multiplies slowly. On average, the disease incubation period is five years but symptoms may occur within one year. It can also take as long as 20 years or even more to occur. The signs and symptoms of leprosy are: •\tSkin lesions •\tDecreased or loss of sensation on skin lesions •\tMuscle weakness •\tNumbness in the hands, arms, feet and legs."
+          },
+          {
+            "id": 2,
+            "heading": "SELECTION",
+            "content": [
+              {
+                "id": 1,
+                "subheading": "Inclusion criteria",
+                "content": "Multicentre, analyst-blinded, randomised controlled superiority trial in 22 clinics"
+              },
+              {
+                "id": 2,
+                "subheading": "Sample Hemolysis",
+                "content": "The evidence on sample hemolysis is inconclusive whereby one RCT reported a lower hemolysis rate of blood samples drawn from Vacutainer venepuncture compared to IV catheter (via syringe). On the other hand, two cross sectional studies reported that blood hemolysis was found to be higher in samples drawn with a Vacutainer system compared to a syringe-needle transfer system (hemolysis rate with Vacutainer: 35.8% to 77.0%)."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "results": [
+      {
+        "id": 1,
+        "result": "RESULTS",
+        "content": [
+          {
+            "id": 1,
+            "heading": "SELECTION OF THE INCLUDED STUDIES",
+            "content": "Leprosy is an infectious disease caused by M. leprae, which multiplies slowly. On average, the disease incubation period is five years but symptoms may occur within one year. It can also take as long as 20 years or even more to occur. The signs and symptoms of leprosy are: •\tSkin lesions •\tDecreased or loss of sensation on skin lesions •\tMuscle weakness •\tNumbness in the hands, arms, feet and legs."
+          },
+          {
+            "id": 2,
+            "heading": "RISK OF BIAS ASSESSMENT",
+            "content": [
+              {
+                "id": 1,
+                "subheading": "Assessment for Systematic Review Studies using Critical Appraisal Skills Programme (CASP) Checklist",
+                "content": "Multicentre, analyst-blinded, randomised controlled superiority trial in 22 clinics"
+              },
+              {
+                "id": 2,
+                "subheading": "Assessment for Randomised Control Trial (RCT) using Revised Cochrane Risk of Bias Tool (ROB 2.0)",
+                "content": "The evidence on sample hemolysis is inconclusive whereby one RCT reported a lower hemolysis rate of blood samples drawn from Vacutainer venepuncture compared to IV catheter (via syringe). On the other hand, two cross sectional studies reported that blood hemolysis was found to be higher in samples drawn with a Vacutainer system compared to a syringe-needle transfer system (hemolysis rate with Vacutainer: 35.8% to 77.0%)."
+              },
+              {
+                "id": 3,
+                "subheading": "Assessment for Cohort Studies using Critical Appraisal Skills Programme (CASP) Checklist",
+                "content": "The evidence on sample hemolysis is inconclusive whereby one RCT reported a lower hemolysis rate of blood samples drawn from Vacutainer venepuncture compared to IV catheter (via syringe). On the other hand, two cross sectional studies reported that blood hemolysis was found to be higher in samples drawn with a Vacutainer system compared to a syringe-needle transfer system (hemolysis rate with Vacutainer: 35.8% to 77.0%)."
+              },
+              {
+                "id": 4,
+                "subheading": "Assessment for Economic Evaluation Studies using Critical Appraisal Skills Programme (CASP) Checklist",
+                "content": "The evidence on sample hemolysis is inconclusive whereby one RCT reported a lower hemolysis rate of blood samples drawn from Vacutainer venepuncture compared to IV catheter (via syringe). On the other hand, two cross sectional studies reported that blood hemolysis was found to be higher in samples drawn with a Vacutainer system compared to a syringe-needle transfer system (hemolysis rate with Vacutainer: 35.8% to 77.0%)."
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "heading": "EFFICACY/ EFFECTIVENESS",
+            "content": [
+              {
+                "id": 1,
+                "subheading": "Single Dose Rifampicin-Post-exposure Prophylaxis (SDR-PEP)",
+                "content": "Multicentre, analyst-blinded, randomised controlled superiority trial in 22 clinics"
+              },
+              {
+                "id": 2,
+                "subheading": "Combination of SDR-PEP with Immunoprophylaxis",
+                "content": "The evidence on sample hemolysis is inconclusive whereby one RCT reported a lower hemolysis rate of blood samples drawn from Vacutainer venepuncture compared to IV catheter (via syringe). On the other hand, two cross sectional studies reported that blood hemolysis was found to be higher in samples drawn with a Vacutainer system compared to a syringe-needle transfer system (hemolysis rate with Vacutainer: 35.8% to 77.0%)."
+              },
+              {
+                "id": 3,
+                "subheading": "Modeling",
+                "content": "The evidence on sample hemolysis is inconclusive whereby one RCT reported a lower hemolysis rate of blood samples drawn from Vacutainer venepuncture compared to IV catheter (via syringe). On the other hand, two cross sectional studies reported that blood hemolysis was found to be higher in samples drawn with a Vacutainer system compared to a syringe-needle transfer system (hemolysis rate with Vacutainer: 35.8% to 77.0%)."
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "heading": "SAFETY",
+            "content": "Researcher screened 548 patients with tuberculosis for eligibility. Of these, 322 (59%) were ineligible and 226 (41%) were randomly assigned to the study groups."
+          },
+          {
+            "id": 5,
+            "heading": "ECONOMIC IMPLICATION",
+            "content": "Researcher screened 548 patients with tuberculosis for eligibility. Of these, 322 (59%) were ineligible and 226 (41%) were randomly assigned to the study groups."
+          },
+          {
+            "id": 6,
+            "heading": "ORGANISATIONAL",
+            "content": [
+              {
+                "id": 1,
+                "subheading": "Feasibility of SDR-PEP",
+                "content": "Leprosy is an infectious disease caused by M. leprae, which multiplies slowly. On average, the disease incubation period is five years but symptoms may occur within one year. It can also take as long as 20 years or even more to occur. The signs and symptoms of leprosy are: •\tSkin lesions •\tDecreased or loss of sensation on skin lesions •\tMuscle weakness •\tNumbness in the hands, arms, feet and legs."
+              },
+              {
+                "id": 2,
+                "subheading": "Guidelines / Recommendations ",
+                "content": "Multicentre, analyst-blinded, randomised controlled superiority trial in 22 clinics"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "heading": "SOCIAL/ ETHICAL / LEGAL",
+            "content": "Researcher screened 548 patients with tuberculosis for eligibility. Of these, 322 (59%) were ineligible and 226 (41%) were randomly assigned to the study groups."
+          },
+          {
+            "id": 8,
+            "heading": "LIMITATION",
+            "content": "Researcher screened 548 patients with tuberculosis for eligibility. Of these, 322 (59%) were ineligible and 226 (41%) were randomly assigned to the study groups."
+          }
+        ]
+      }
+    ],
+    "conclusion": [
+      {
+        "id": 1,
+        "conclusion": "CONCLUSION",
+        "content": "The evidence suggested that administration of SDR-PEP to leprosy contacts was effective in reducing the clinical development of the disease. The SDR-PEP gave a protection effect of 56.5% in leprosy contacts after two years, 34.9% after four years, and no additional effect after six years. Combination of SDR-PEP with childhood BCG vaccine showed a protection effect of 80% against leprosy after two years. Modeling studies on long-term effectiveness suggested that combinations of SDR-LPEP with systematic contact tracing or blanket approach were effective strategies in reducing the risk of developing leprosy. There were no serious adverse events and safety issues reported in the included studies. The SDR-PEP was shown to be cost-effective in India and Bangladesh, with benefit depending on the extent which disability can be prevented and different contacts level.  Integration of SDR-PEP and systematic contact tracing into leprosy control programme could potentially accelerate the interruption of leprosy transmission. The implementations of both interventions are feasible, generally safe, and well accepted by leprosy patients, their closed contacts and healthcare workers. "
+      }
+    ],
+    "recomendation": [
+      {
+        "id": 1,
+        "recomendation": "RECOMMENDATION",
+        "content": "To be included after TAC meeting."
+      }
+    ]
+  }
+]
